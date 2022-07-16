@@ -69,7 +69,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 #EXTINF:-1 tvg-id="501" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-title="MALAYSIA",ASTRO AWANI
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 
-#EXTINF:-1 tvg-id="Berita RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+#EXTINF:-1 tvg-id="Berita RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="MALAYSIA",Berita RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
