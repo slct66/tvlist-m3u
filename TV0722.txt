@@ -977,10 +977,11 @@ http://117.148.179.151:80/PLTV/88888888/224/3221231799/1.m3u8
 #EXTINF:-1,tvg-id="高清剧场" tvg-name="高清剧场" tvg-logo="https://epg.112114.xyz/logo/高清剧场.png" group-title="文娱",高清剧场
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8
 
-#EXTINF:-1 tvg-id="GOODTVCH1ZongHeTai.tw" tvg-name="GOOD TV CH1 綜合台" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/1_file.jpg" group-title="GOOD TV",GOOD TV CH1 綜合台 (720p)
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv16&nid=9
-#EXTINF:-1 tvg-id="GOODTVCH2ZhenLiTai.tw" tvg-name="GOOD TV CH2 真理台" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/2_file.jpg" group-title="GOOD TV",GOOD TV CH2 真理台 (720p)
+#EXTINF:-1 tvg-id="6033" tvg-name="GOOD TV CH1 綜合台" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/1_file.jpg" group-title="GOOD TV",GOOD TV CH1 綜合台 (720p)
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+http://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 tvg-id="6033" tvg-name="GOOD TV CH2 真理台" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/2_file.jpg" group-title="GOOD TV",GOOD TV CH2 真理台 (720p)
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv17&nid=8
 
-#EXTINF:-1 tvg-id="GOODTVCH49DaoGaoPinDao.tw" tvg-name="GOOD TV CH49 禱告頻道" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/49_file.jpg" group-title="GOOD TV",GOOD TV CH49 禱告頻道 (720p)
+#EXTINF:-1 tvg-id="6033" tvg-name="GOOD TV CH49 禱告頻道" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/49_file.jpg" group-title="GOOD TV",GOOD TV CH49 禱告頻道 (720p)
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch49-2.m3u8
