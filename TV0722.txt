@@ -336,7 +336,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2400
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_ott.mpd
-http://iptv12k.com:35461/live/80301070602/456776/709.m3u8
+http://iptv12k.com:35461/live/test167/12345/709.m3u8
 
 
 #EXTINF:-1 tvg-id="AstroHuaHeeDai" ch-number="333" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png/revision/latest/scale-to-width-down/250?cb=20200914130021",333 Astro Hua Hee Dai 
@@ -363,7 +363,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_primary.mpd
 #EXTINF:-1 tvg-id="AstroShuangXing" ch-number="307" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Astro_Shuang_Xing_%282015%29.png/revision/latest?cb=20190106060728",307 Astro Shuang Xing AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2019dd03e75adfc2f58ec94eff26d810&key=79dc64991db24e051b3cb7b39e59e8c3
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_primary.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_primary.mpd
+http://iptv12k.com:35461/live/test167/12345/706.m3u8
 
 #EXTINF:-1 tvg-id="AstroQuanJiaHD" ch-number="308" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/308_300.png/revision/latest?cb=20200122111044",308 Astro Quan Jia HD AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
