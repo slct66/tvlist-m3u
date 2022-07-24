@@ -8,7 +8,7 @@
 
 MALAYSIA
 
-#EXTINF:-1 tvg-id="TV1" group-title="MALAYSIA" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
+#EXTINF:-1 tvg-id="TV1" tvg name="TV1 HD" group-title="MALAYSIA" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 # https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
