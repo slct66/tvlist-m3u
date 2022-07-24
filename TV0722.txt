@@ -5,6 +5,7 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml" url-tvg="http://epg.51zmt.top:8000/e.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://unifiplaytv.samsam123.tk/epg" url-tvg="https://unifiplaytv.samsam123.tk/epg" refresh="1440" max-conn="1" refresh="3000"
+#EXTM3U x-tvg-url="https://aqfadtv.xyz/epg" url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" refresh="1440" max-conn="1" refresh="24"
 
 MALAYSIA
 
