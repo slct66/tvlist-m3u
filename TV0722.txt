@@ -311,8 +311,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
                                                                          ASTRO
 
+#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",Astro Ria HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
+https://stream.zeehanzgadget.com/ria.mpd
+#http://linears-playback.astro.com.my/vsgN/41KPzKMI9pj8KlBCMu4dx_bkOA_afNkRbLW--SXGZzVHI=nZGd/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
-
+#EXTINF:-1 tvg-id="AstroCitra" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/128_300.png" group-title="Astro", Astro Citra 
+http://50.7.220.74:8278/Citra/playlist.m3u8?tid=m02000000000010362776&ct=17958&tsum=dc40ef1aeb6d02be3b40e2da82894583
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1000
