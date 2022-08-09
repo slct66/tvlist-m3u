@@ -12,12 +12,15 @@ MALAYSIA
 #EXTINF:-1 tvg-id="TV1" tvg name="TV1 HD" group-title="MALAYSIA" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 # https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
-https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+#https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:-1 tvg-id="TV2" group-title="MALAYSIA" ch-number="102" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png",102 TV2
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 # https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
-https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+#https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
+
 
 #EXTINF:-1 tvg-id="TV3" group-title="MALAYSIA" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 (UnifiTV)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -33,7 +36,8 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 
 #EXTINF:-1 tvg-id="TV6" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg",113 TV6
 # https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
-https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+#https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:-1 tvg-id="GOShopMYTV" group-title="MALAYSIA" tvg-logo="https://i.kampung.xyz/c/20d0f2053da42ed2.png",120 Go Shop
 https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
@@ -70,8 +74,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 
 #EXTINF:-1 tvg-id="BERITARTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="MALAYSIA",Berita RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
-https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+#https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+#https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8
 
 Movies
 
