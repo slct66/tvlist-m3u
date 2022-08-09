@@ -347,6 +347,8 @@ http://iptv12k.com:35461/live/test167/12345/709.m3u8
 #EXTINF:-1 tvg-id="AstroAEC" ch-number="306" group-title="ASTRO" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",306 Astro AEC ALT
 http://iptv12k.com:35461/live/80301070602/456776/709.m3u8
 
+#EXTINF:-1 tvg-id="AstroAEC" ch-number="306 group-title="ASTRO" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",306 Astro AEC ALT 2
+https://stream.zeehanzgadget.com/aec.mpd
 
 #EXTINF:-1 tvg-id="AstroHuaHeeDai" ch-number="333" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png/revision/latest/scale-to-width-down/250?cb=20200914130021",333 Astro Hua Hee Dai 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
