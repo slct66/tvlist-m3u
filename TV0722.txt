@@ -354,10 +354,10 @@ http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20417
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 https://srv.vhls.ru.com/cdn/premium126/playlist.m3u8|referer=https://player.licenses4.me/
 
-#EXTINF: -1 tvg-id="AstroSupersport4" group-title="SPORT" ch-number="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astro SuperSport 4 ALT 2
+#EXTINF: -1 tvg-id="AstroSupersport4" group-title="SPORTS" ch-number="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astro SuperSport 4 ALT 2
 https://networkbest.ru.com/cdn/premium126/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 
-#EXTINF: -1 tvg-id="AstroSupersport4" group-title="SPORT" ch-number="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astro SuperSport 4 ALT 2
+#EXTINF: -1 tvg-id="AstroSupersport4" group-title="SPORTS" ch-number="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astro SuperSport 4 ALT 3
 https://aqfadtv.xyz/supersport4.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
