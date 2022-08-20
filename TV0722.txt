@@ -900,7 +900,7 @@ http://59.125.122.90:18560/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8
 http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
 
 #EXTINF:-1 tvg-id="6058" tvg-name="东森戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="港澳台",东森戏剧
-http://50.7.220.74:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
+http://60.251.33.252:18538/.m3u8
 
 #EXTINF:-1 tvg-id="6044" tvg-name="纬来综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png" group-title="港澳台",纬来综合
 http://59.125.122.90:18540/.m3u8
@@ -920,7 +920,7 @@ http://59.125.122.90:18541/.m3u8
 http://59.125.122.90:18522/.m3u8
 
 #EXTINF:-1 tvg-id="7127" tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华戏剧.png" group-title="港澳台",龙华戏剧
-http://59.125.122.90:18507/.m3u8
+http://60.251.33.252:18513/.m3u8
 
 #EXTINF:-1 tvg-id="7158" tvg-name="龙华日韩台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华日韩.png" group-title="港澳台",龙华日韩
 http://59.125.122.90:18508/.m3u8
